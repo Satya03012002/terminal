@@ -1,2 +1,2 @@
 # Terminal
-creating our own terminal
+creating our own Linux terminal
